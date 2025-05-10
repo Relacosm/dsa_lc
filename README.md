@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Relacosm/dsa_lc/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Relacosm/dsa_lc/tree/master/0205-isomorphic-strings) |
 | [0432-all-oone-data-structure](https://github.com/Relacosm/dsa_lc/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Relacosm/dsa_lc/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Relacosm/dsa_lc/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
