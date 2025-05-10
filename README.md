@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Relacosm/dsa_lc/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Relacosm/dsa_lc/tree/master/0292-nim-game) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
 | [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Relacosm/dsa_lc/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Relacosm/dsa_lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sorting
 |  |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Relacosm/dsa_lc/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
