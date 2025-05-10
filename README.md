@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Relacosm/dsa_lc/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
+| [0866-rectangle-overlap](https://github.com/Relacosm/dsa_lc/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Relacosm/dsa_lc/tree/master/1013-fibonacci-number) |
 | [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Relacosm/dsa_lc/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Relacosm/dsa_lc/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
