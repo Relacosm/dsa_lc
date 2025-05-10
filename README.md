@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Relacosm/dsa_lc/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Relacosm/dsa_lc/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Relacosm/dsa_lc/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Relacosm/dsa_lc/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Relacosm/dsa_lc/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0628-maximum-product-of-three-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Relacosm/dsa_lc/tree/master/0415-add-strings) |
 | [2411-spiral-matrix-iv](https://github.com/Relacosm/dsa_lc/tree/master/2411-spiral-matrix-iv) |
 ## String
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Relacosm/dsa_lc/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
+| [0415-add-strings](https://github.com/Relacosm/dsa_lc/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Relacosm/dsa_lc/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Relacosm/dsa_lc/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
