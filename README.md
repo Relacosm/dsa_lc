@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
 | [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Relacosm/dsa_lc/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Relacosm/dsa_lc/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Relacosm/dsa_lc/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -90,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
