@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Relacosm/dsa_lc/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
