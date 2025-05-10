@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Relacosm/dsa_lc/tree/master/0015-3sum) |
+| [0344-reverse-string](https://github.com/Relacosm/dsa_lc/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Relacosm/dsa_lc/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
+| [0344-reverse-string](https://github.com/Relacosm/dsa_lc/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Relacosm/dsa_lc/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Relacosm/dsa_lc/tree/master/0920-uncommon-words-from-two-sentences) |
