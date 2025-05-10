@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
+| [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/Relacosm/dsa_lc/tree/master/2411-spiral-matrix-iv) |
+## String
+|  |
+| ------- |
+| [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
+## Number Theory
+|  |
+| ------- |
+| [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
 <!---LeetCode Topics End-->
