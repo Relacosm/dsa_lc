@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Relacosm/dsa_lc/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Relacosm/dsa_lc/tree/master/0136-single-number) |
 | [2411-spiral-matrix-iv](https://github.com/Relacosm/dsa_lc/tree/master/2411-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
@@ -50,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Relacosm/dsa_lc/tree/master/0136-single-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Relacosm/dsa_lc/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
