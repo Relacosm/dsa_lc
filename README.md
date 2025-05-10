@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Relacosm/dsa_lc/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Relacosm/dsa_lc/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Relacosm/dsa_lc/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
 | [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Relacosm/dsa_lc/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Relacosm/dsa_lc/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Relacosm/dsa_lc/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Relacosm/dsa_lc/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Relacosm/dsa_lc/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Relacosm/dsa_lc/tree/master/1786-count-the-number-of-consistent-strings) |
