@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Relacosm/dsa_lc/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Relacosm/dsa_lc/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
 | [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
 | [2411-spiral-matrix-iv](https://github.com/Relacosm/dsa_lc/tree/master/2411-spiral-matrix-iv) |
 ## String
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
 | [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
