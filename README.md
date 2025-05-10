@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Relacosm/dsa_lc/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Relacosm/dsa_lc/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Relacosm/dsa_lc/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Relacosm/dsa_lc/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Relacosm/dsa_lc/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0214-shortest-palindrome) |
