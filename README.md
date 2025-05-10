@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Relacosm/dsa_lc/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0866-rectangle-overlap](https://github.com/Relacosm/dsa_lc/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Relacosm/dsa_lc/tree/master/1013-fibonacci-number) |
 | [1543-simplified-fractions](https://github.com/Relacosm/dsa_lc/tree/master/1543-simplified-fractions) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Relacosm/dsa_lc/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Relacosm/dsa_lc/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Relacosm/dsa_lc/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Relacosm/dsa_lc/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Relacosm/dsa_lc/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Relacosm/dsa_lc/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Relacosm/dsa_lc/tree/master/1786-count-the-number-of-consistent-strings) |
