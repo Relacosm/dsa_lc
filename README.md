@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Relacosm/dsa_lc/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Relacosm/dsa_lc/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Relacosm/dsa_lc/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Relacosm/dsa_lc/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Relacosm/dsa_lc/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Relacosm/dsa_lc/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Relacosm/dsa_lc/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Relacosm/dsa_lc/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Relacosm/dsa_lc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Relacosm/dsa_lc/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Relacosm/dsa_lc/tree/master/0189-rotate-array) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0731-my-calendar-ii](https://github.com/Relacosm/dsa_lc/tree/master/0731-my-calendar-ii) |
