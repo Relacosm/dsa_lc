@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Relacosm/dsa_lc/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Relacosm/dsa_lc/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Relacosm/dsa_lc/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Relacosm/dsa_lc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Relacosm/dsa_lc/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Relacosm/dsa_lc/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Relacosm/dsa_lc/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0731-my-calendar-ii](https://github.com/Relacosm/dsa_lc/tree/master/0731-my-calendar-ii) |
