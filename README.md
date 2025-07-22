@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Relacosm/dsa_lc/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Relacosm/dsa_lc/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Relacosm/dsa_lc/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Relacosm/dsa_lc/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Relacosm/dsa_lc/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Relacosm/dsa_lc/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Relacosm/dsa_lc/tree/master/0268-missing-number) |
