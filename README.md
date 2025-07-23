@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Relacosm/dsa_lc/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Relacosm/dsa_lc/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Relacosm/dsa_lc/tree/master/0189-rotate-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Relacosm/dsa_lc/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Relacosm/dsa_lc/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Relacosm/dsa_lc/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Relacosm/dsa_lc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Relacosm/dsa_lc/tree/master/0136-single-number) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Relacosm/dsa_lc/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Relacosm/dsa_lc/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/Relacosm/dsa_lc/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0628-maximum-product-of-three-numbers) |
