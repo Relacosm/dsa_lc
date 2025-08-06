@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Relacosm/dsa_lc/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Relacosm/dsa_lc/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0633-sum-of-square-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0731-my-calendar-ii](https://github.com/Relacosm/dsa_lc/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Relacosm/dsa_lc/tree/master/0859-design-circular-deque) |
+| [1019-squares-of-a-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/1019-squares-of-a-sorted-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Relacosm/dsa_lc/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Relacosm/dsa_lc/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Relacosm/dsa_lc/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Relacosm/dsa_lc/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Relacosm/dsa_lc/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/1019-squares-of-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Relacosm/dsa_lc/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Recursion
 |  |
