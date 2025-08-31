@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Relacosm/dsa_lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Relacosm/dsa_lc/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Relacosm/dsa_lc/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2058-concatenation-of-array](https://github.com/Relacosm/dsa_lc/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/Relacosm/dsa_lc/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Relacosm/dsa_lc/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Relacosm/dsa_lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Relacosm/dsa_lc/tree/master/0415-add-strings) |
+| [2058-concatenation-of-array](https://github.com/Relacosm/dsa_lc/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/Relacosm/dsa_lc/tree/master/2411-spiral-matrix-iv) |
 ## String
 |  |
