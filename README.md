@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Relacosm/dsa_lc/tree/master/0155-min-stack) |
 | [0432-all-oone-data-structure](https://github.com/Relacosm/dsa_lc/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Relacosm/dsa_lc/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Relacosm/dsa_lc/tree/master/0859-design-circular-deque) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Relacosm/dsa_lc/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Game Theory
 |  |
