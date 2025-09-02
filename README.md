@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Relacosm/dsa_lc/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Relacosm/dsa_lc/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Relacosm/dsa_lc/tree/master/0205-isomorphic-strings) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0020-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Game Theory
 |  |
