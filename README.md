@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Relacosm/dsa_lc/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Relacosm/dsa_lc/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Relacosm/dsa_lc/tree/master/0725-split-linked-list-in-parts) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Relacosm/dsa_lc/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Relacosm/dsa_lc/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0241-different-ways-to-add-parentheses) |
