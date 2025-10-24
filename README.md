@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Relacosm/dsa_lc/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Relacosm/dsa_lc/tree/master/0725-split-linked-list-in-parts) |
+| [0838-design-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Relacosm/dsa_lc/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/Relacosm/dsa_lc/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Relacosm/dsa_lc/tree/master/0155-min-stack) |
 | [0432-all-oone-data-structure](https://github.com/Relacosm/dsa_lc/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Relacosm/dsa_lc/tree/master/0731-my-calendar-ii) |
+| [0838-design-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Relacosm/dsa_lc/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
