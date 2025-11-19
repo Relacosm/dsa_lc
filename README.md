@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Relacosm/dsa_lc/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Relacosm/dsa_lc/tree/master/0859-design-circular-deque) |
+| [1582-design-browser-history](https://github.com/Relacosm/dsa_lc/tree/master/1582-design-browser-history) |
 | [2411-spiral-matrix-iv](https://github.com/Relacosm/dsa_lc/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Relacosm/dsa_lc/tree/master/1019-squares-of-a-sorted-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Relacosm/dsa_lc/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Relacosm/dsa_lc/tree/master/1582-design-browser-history) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Relacosm/dsa_lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Relacosm/dsa_lc/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Relacosm/dsa_lc/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Relacosm/dsa_lc/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Relacosm/dsa_lc/tree/master/1582-design-browser-history) |
 ## Segment Tree
 |  |
 | ------- |
@@ -249,12 +252,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Relacosm/dsa_lc/tree/master/0432-all-oone-data-structure) |
+| [1582-design-browser-history](https://github.com/Relacosm/dsa_lc/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Relacosm/dsa_lc/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Relacosm/dsa_lc/tree/master/1582-design-browser-history) |
 ## Game Theory
 |  |
 | ------- |
@@ -271,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Relacosm/dsa_lc/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Relacosm/dsa_lc/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
