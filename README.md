@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Relacosm/dsa_lc/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Relacosm/dsa_lc/tree/master/1582-design-browser-history) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Relacosm/dsa_lc/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Relacosm/dsa_lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Relacosm/dsa_lc/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Relacosm/dsa_lc/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Relacosm/dsa_lc/tree/master/0415-add-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Relacosm/dsa_lc/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/Relacosm/dsa_lc/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/Relacosm/dsa_lc/tree/master/2411-spiral-matrix-iv) |
 ## String
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Relacosm/dsa_lc/tree/master/0859-design-circular-deque) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Relacosm/dsa_lc/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Relacosm/dsa_lc/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Relacosm/dsa_lc/tree/master/1582-design-browser-history) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Relacosm/dsa_lc/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Game Theory
 |  |
 | ------- |
