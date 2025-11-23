@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Relacosm/dsa_lc/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Relacosm/dsa_lc/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/Relacosm/dsa_lc/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Relacosm/dsa_lc/tree/master/0731-my-calendar-ii) |
 | [0838-design-linked-list](https://github.com/Relacosm/dsa_lc/tree/master/0838-design-linked-list) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Relacosm/dsa_lc/tree/master/0225-implement-stack-using-queues) |
 | [0859-design-circular-deque](https://github.com/Relacosm/dsa_lc/tree/master/0859-design-circular-deque) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Relacosm/dsa_lc/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Doubly-Linked List
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Relacosm/dsa_lc/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Relacosm/dsa_lc/tree/master/0225-implement-stack-using-queues) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Relacosm/dsa_lc/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Relacosm/dsa_lc/tree/master/1582-design-browser-history) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Relacosm/dsa_lc/tree/master/1700-number-of-students-unable-to-eat-lunch) |
