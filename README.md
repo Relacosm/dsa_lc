@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Relacosm/dsa_lc/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Relacosm/dsa_lc/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Relacosm/dsa_lc/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Relacosm/dsa_lc/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Relacosm/dsa_lc/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Relacosm/dsa_lc/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Relacosm/dsa_lc/tree/master/0189-rotate-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Relacosm/dsa_lc/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Relacosm/dsa_lc/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Relacosm/dsa_lc/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Relacosm/dsa_lc/tree/master/0268-missing-number) |
