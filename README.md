@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Relacosm/dsa_lc/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Relacosm/dsa_lc/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Relacosm/dsa_lc/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Relacosm/dsa_lc/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Relacosm/dsa_lc/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Relacosm/dsa_lc/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Relacosm/dsa_lc/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Relacosm/dsa_lc/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Relacosm/dsa_lc/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Relacosm/dsa_lc/tree/master/0415-add-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Relacosm/dsa_lc/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Relacosm/dsa_lc/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Relacosm/dsa_lc/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Relacosm/dsa_lc/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Relacosm/dsa_lc/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Relacosm/dsa_lc/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Relacosm/dsa_lc/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Relacosm/dsa_lc/tree/master/0205-isomorphic-strings) |
